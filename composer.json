@@ -1,0 +1,16 @@
+{
+    "name": "slim/mvc",
+    "description": "Aplicação MVC criada com o micro framework Slim 3",
+    "type": "project",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Bruno R. Holanda",
+            "email": "brunorodriguesholanda@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
